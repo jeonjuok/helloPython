@@ -1,2 +1,2 @@
-# hellopython
+# helloPython
 python basic lecture
